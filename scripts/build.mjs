@@ -373,7 +373,7 @@ await mkdir(path.join(rootDir, "assets"), { recursive: true });
 await cp(path.join(rootDir, "src", "assets"), path.join(rootDir, "assets"), { recursive: true, force: true });
 await cp(path.join(rootDir, "src", "styles", "styles.css"), path.join(rootDir, "assets", "styles.css"), { force: true });
 await cp(path.join(rootDir, "src", "scripts", "site.js"), path.join(rootDir, "assets", "site.js"), { force: true });
-for (const file of ["robots.txt", "site.webmanifest", "CNAME"]) {
+for (const file of ["robots.txt", "site.webmanifest", "CNAME", "google35cca82249fad265.html"]) {
   await cp(path.join(rootDir, "public", file), path.join(rootDir, file), { force: true });
 }
 console.log("Copied assets and public files.");
