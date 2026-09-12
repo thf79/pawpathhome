@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="leash-title">
+  <title id="leash-title">Dog walking beside the handler with a slack leash</title>
+  <rect width="320" height="210" rx="24" fill="#f7f2e8"/>
+  <circle cx="253" cy="61" r="67" fill="#dceee1"/>
+  <ellipse cx="162" cy="177" rx="111" ry="13" fill="#17352c" opacity=".1"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="241" cy="68" r="19" fill="#f8d7aa"/>
+    <path d="M241 88v57M241 104l-24 18M241 104l25 18M241 145l-18 31M241 145l20 29" />
+    <circle cx="218" cy="126" r="8" fill="#f8d7aa"/>
+    <path d="M75 136c21-16 47-23 78-21 30 2 51 13 63 33-23 14-49 20-78 18-29-1-50-11-63-30z" fill="#e3ad6e"/>
+    <path d="M91 132c-19-2-32-14-36-34-3-18 7-33 25-38 19-5 36 5 41 23 4 17-5 33-21 42-3 2-6 5-9 7z" fill="#e3ad6e"/>
+    <path d="M83 66C66 53 67 33 81 23c14-10 30-5 37 9-12 8-23 20-35 34z" fill="#aa6335"/>
+    <path d="M116 70c17-5 28-18 25-33-2-14-17-24-32-20 6 16 9 34 7 53z" fill="#aa6335"/>
+    <path d="M94 99c4-7 12-9 18-5 7 4 9 12 4 19-6 7-15 7-21 1-4-4-4-10-1-15z" fill="#f8d7aa"/>
+    <circle cx="106" cy="78" r="4" fill="#17352c" stroke="none"/>
+    <path d="M97 98c4 2 8 2 12-1" />
+    <path d="M128 80c12 4 22 4 31 0" stroke="#e87351" stroke-width="8"/>
+    <path d="M134 135l-20 39M179 138l3 36M214 135l18 37" stroke="#d49252" stroke-width="11"/>
+    <path d="M154 138l-10 37M195 138l-12 37" stroke="#e3ad6e" stroke-width="11"/>
+  </g>
+  <path d="M128 96c9 49 54 57 91 34" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round"/>
+  <path d="M215 128c3 7 3 13-2 18" fill="none" stroke="#2f7a57" stroke-width="4" stroke-linecap="round"/>
+  <rect x="18" y="18" width="106" height="28" rx="14" fill="#fffdfa"/>
+  <text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".6">SLACK LEASH</text>
+</svg>

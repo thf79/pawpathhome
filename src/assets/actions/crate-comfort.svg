@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="crate-title">
+  <title id="crate-title">Dog resting calmly inside an open crate</title>
+  <rect width="320" height="210" rx="24" fill="#f7f2e8"/>
+  <circle cx="256" cy="61" r="64" fill="#dceee1"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 50h198v126H50z" fill="#fffdfa"/>
+    <path d="M69 55v116M88 55v116M107 55v116M126 55v116M145 55v116M164 55v116M183 55v116M202 55v116M221 55v116" opacity=".34"/>
+    <path d="M50 104h198" opacity=".34"/>
+    <path d="M248 50v126M267 50v126M286 50v126" stroke="#2f7a57" opacity=".45"/>
+    <path d="M93 146c16-17 40-25 69-24 28 1 47 10 60 27-18 12-43 18-70 17-27-1-45-8-59-20z" fill="#e3ad6e"/>
+    <path d="M110 139c-19-1-31-13-34-31-2-18 9-32 26-36 18-3 33 7 37 24 3 17-6 31-22 39-2 1-5 3-7 4z" fill="#e3ad6e"/>
+    <path d="M112 75C98 61 99 43 112 35c13-8 27-3 34 9-11 8-22 20-34 31z" fill="#aa6335"/>
+    <path d="M142 79c16-4 26-16 24-30-2-13-16-22-30-18 5 16 8 32 6 48z" fill="#aa6335"/>
+    <circle cx="134" cy="91" r="3.5" fill="#17352c" stroke="none"/>
+    <path d="M120 109c4-6 10-7 15-3 6 4 7 11 2 16-5 6-13 6-17 1-3-4-3-9 0-14z" fill="#f8d7aa"/>
+    <path d="M122 110c4 2 7 2 10-1"/>
+    <path d="M151 96c11 3 20 3 29 0" stroke="#e87351" stroke-width="7"/>
+    <path d="M124 145l-10 15M164 149l-2 12M200 148l10 13" stroke="#d49252" stroke-width="9"/>
+  </g>
+  <g transform="translate(91 144)"><ellipse rx="17" ry="12" fill="#f1c453" stroke="#17352c" stroke-width="4"/><path d="M-8-4h16" stroke="#e87351" stroke-width="4" stroke-linecap="round"/></g>
+  <rect x="18" y="18" width="177" height="28" rx="14" fill="#fffdfa"/>
+  <text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".5">CHOOSE THE CRATE</text>
+</svg>

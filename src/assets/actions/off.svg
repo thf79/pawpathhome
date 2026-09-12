@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="off-title">
+  <title id="off-title">Dog moving off furniture until four paws are on the floor</title>
+  <rect width="320" height="210" rx="24" fill="#f7f2e8"/>
+  <circle cx="257" cy="59" r="64" fill="#f1c453" opacity=".82"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M187 143h104v42H187z" fill="#2f7a57"/>
+    <path d="M193 143v-30h92v30M201 113v-28h76v28" fill="#e87351"/>
+    <path d="M198 185v13M280 185v13" />
+    <path d="M93 147c17-15 41-22 70-20 27 2 45 12 55 29-20 12-45 17-72 15-25-1-42-8-53-24z" fill="#e3ad6e"/>
+    <path d="M111 140c-18-1-30-13-33-30-2-17 8-31 24-35 17-4 32 6 36 22 3 16-5 30-20 38-2 1-5 3-7 5z" fill="#e3ad6e"/>
+    <path d="M112 78C98 64 99 46 111 38c12-7 25-3 31 9-10 7-20 18-30 31z" fill="#aa6335"/>
+    <path d="M140 82c15-4 24-16 22-29-2-12-14-20-27-17 5 14 7 30 5 46z" fill="#aa6335"/>
+    <path d="M122 111c4-6 10-8 16-4 6 4 7 11 3 16-5 6-13 6-17 1-3-4-4-9-2-13z" fill="#f8d7aa"/>
+    <circle cx="133" cy="94" r="3.5" fill="#17352c" stroke="none"/>
+    <path d="M123 111c4 2 7 2 11-1"/>
+    <path d="M151 98c11 3 20 3 29 0" stroke="#e87351" stroke-width="7"/>
+    <path d="M124 144l-13 28M159 147l-4 25M191 147l10 25" stroke="#d49252" stroke-width="10"/>
+  </g>
+  <path d="M75 145v35" stroke="#2f7a57" stroke-width="5" stroke-linecap="round"/>
+  <path d="m64 171 11 15 11-15" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="75" cy="190" r="6" fill="#e87351"/>
+  <rect x="18" y="18" width="151" height="28" rx="14" fill="#fffdfa"/>
+  <text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".5">FOUR PAWS DOWN</text>
+</svg>

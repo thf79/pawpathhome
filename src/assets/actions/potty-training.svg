@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="potty-title">
+  <title id="potty-title">Dog going to a consistent potty spot and receiving a reward</title>
+  <rect width="320" height="210" rx="24" fill="#edf6ee"/>
+  <path d="M0 158h320v52H0z" fill="#b9d9a8"/>
+  <circle cx="252" cy="65" r="66" fill="#f1c453" opacity=".86"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 48h91v113H24z" fill="#fffdfa"/>
+    <circle cx="99" cy="105" r="5" fill="#e87351" stroke="none"/>
+    <path d="M43 78h53M43 98h53" opacity=".45"/>
+    <path d="M123 160c18-18 42-27 72-26 31 1 54 11 70 29-22 14-48 20-76 19-28-1-50-8-66-22z" fill="#e3ad6e"/>
+    <path d="M143 152c-18-1-31-12-36-32-4-18 6-33 24-39 19-5 37 4 43 22 5 18-3 34-20 43-3 2-7 4-11 6z" fill="#e3ad6e"/>
+    <path d="M137 85c-17-13-17-32-3-43 14-10 31-5 39 9-13 8-25 20-36 34z" fill="#aa6335"/>
+    <path d="M172 90c18-5 29-18 27-34-3-15-18-25-34-20 6 17 9 35 7 54z" fill="#aa6335"/>
+    <path d="M147 119c5-8 13-10 20-6 7 5 9 13 4 20-6 8-16 8-22 1-4-4-5-10-2-15z" fill="#f8d7aa"/>
+    <circle cx="159" cy="98" r="4" fill="#17352c" stroke="none"/>
+    <path d="M149 119c4 3 9 3 13-1" />
+    <path d="M180 101c13 4 24 4 34 0" stroke="#e87351" stroke-width="8"/>
+    <path d="M186 155l-21 15M223 156l1 14M253 153l18 16" stroke="#d49252" stroke-width="10"/>
+  </g>
+  <path d="M196 76c23-20 49-24 75-10" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-dasharray="7 7"/>
+  <path d="m263 71 10-4-2 11" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(277 102)"><circle r="17" fill="#2f7a57"/><path d="m-8 0 5 5 11-12" fill="none" stroke="#fffdfa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <rect x="18" y="18" width="170" height="28" rx="14" fill="#fffdfa"/>
+  <text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".5">GO OUT, THEN REWARD</text>
+</svg>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thf79.github.io/pawpathhome/sitemap.xml
+

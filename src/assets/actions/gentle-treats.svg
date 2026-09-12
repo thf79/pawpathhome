@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="gentle-title">
+  <title id="gentle-title">Dog taking a treat gently from a flat palm</title>
+  <rect width="320" height="210" rx="24" fill="#edf6ee"/>
+  <circle cx="244" cy="62" r="65" fill="#f1c453" opacity=".82"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 151c18-27 43-42 75-44 32-2 56 12 69 42-23 14-47 20-70 19-24-1-46-7-74-17z" fill="#e3ad6e"/>
+    <path d="M82 131c-12-20-4-42 17-52 21-10 43-3 52 17 9 19 0 41-20 51-20 10-40 4-49-16z" fill="#e3ad6e"/>
+    <path d="M97 87C83 71 89 52 103 44c14-8 30-4 38 9-12 8-24 19-44 34z" fill="#aa6335"/>
+    <path d="M139 91c16-1 27-13 28-27 1-14-10-25-24-25-1 17 0 34-4 52z" fill="#aa6335"/>
+    <path d="M127 120c5-6 11-7 17-3 6 4 7 12 2 18-6 6-14 6-19 0-3-4-3-9 0-15z" fill="#f8d7aa"/>
+    <circle cx="125" cy="102" r="3.5" fill="#17352c" stroke="none"/>
+    <path d="M129 120c4 2 7 2 10-1"/>
+    <path d="M148 108c11 4 20 4 29 0" stroke="#e87351" stroke-width="7"/>
+    <path d="M105 146l-15 18M151 151l-4 17M193 149l12 18" stroke="#d49252" stroke-width="9"/>
+  </g>
+  <g transform="translate(273 106)">
+    <path d="M-30 18c-12-7-18-21-12-34 6-14 22-20 35-14 14 7 19 22 13 35-4 7-10 11-16 14z" fill="#f8d7aa" stroke="#17352c" stroke-width="4"/>
+    <circle cx="-2" cy="-3" r="7" fill="#f1c453" stroke="#17352c" stroke-width="3"/>
+    <path d="M-22 4h18" stroke="#2f7a57" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <path d="M190 111c18 0 31-1 43-3" stroke="#2f7a57" stroke-width="5" stroke-linecap="round"/>
+  <path d="m226 102 11 5-10 7" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M158 110c13 4 23 4 32 1" stroke="#2f7a57" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 5"/>
+  <rect x="18" y="18" width="100" height="28" rx="14" fill="#fffdfa"/>
+  <text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".5">SOFT TAKE</text>
+</svg>

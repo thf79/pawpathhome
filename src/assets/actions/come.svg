@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="come-title">
+  <title id="come-title">Dog coming toward the handler</title>
+  <rect width="320" height="210" rx="24" fill="#edf6ee"/>
+  <circle cx="252" cy="62" r="68" fill="#f1c453" opacity=".88"/>
+  <ellipse cx="160" cy="176" rx="103" ry="13" fill="#17352c" opacity=".1"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="268" cy="65" r="18" fill="#f8d7aa"/>
+    <path d="M268 84v55M268 99l-32 17M268 101l25 17M268 138l-18 31M268 138l20 29" />
+    <circle cx="230" cy="119" r="9" fill="#f8d7aa"/>
+    <circle cx="218" cy="119" r="7" fill="#e87351" stroke="#17352c" stroke-width="3"/>
+    <path d="M82 132c19-19 46-28 81-27 35 1 64 12 85 33-22 18-52 27-90 27-35 0-60-11-76-33z" fill="#e3ad6e"/>
+    <path d="M91 130c-22-4-36-19-39-42-2-20 10-36 30-40 22-4 40 8 45 28 4 19-7 36-26 47-3 2-7 5-10 7z" fill="#e3ad6e"/>
+    <path d="M79 59C59 44 60 21 77 10c17-10 35-4 43 12-14 9-27 22-41 37z" fill="#aa6335"/>
+    <path d="M118 65c20-5 34-20 31-38-2-17-19-28-37-24 6 19 10 40 6 62z" fill="#aa6335"/>
+    <path d="M92 99c5-8 13-10 21-6 8 5 10 14 4 22-7 8-17 9-24 1-4-5-4-12-1-17z" fill="#f8d7aa"/>
+    <circle cx="105" cy="75" r="4" fill="#17352c" stroke="none"/>
+    <circle cx="128" cy="70" r="4" fill="#17352c" stroke="none"/>
+    <path d="M95 99c5 3 10 3 15-1" />
+    <path d="M135 77c14 4 26 4 37 0" stroke="#e87351" stroke-width="8"/>
+    <path d="M153 132l-26 38M196 136l6 37M236 132l28 34" stroke="#d49252" stroke-width="11"/>
+    <path d="M170 135l-14 40M211 136l-16 40M247 128l-8 39" stroke="#e3ad6e" stroke-width="11"/>
+  </g>
+  <path d="M52 103h-30M64 122H35M72 84H49" stroke="#2f7a57" stroke-width="5" stroke-linecap="round"/>
+  <path d="M185 101c16 7 28 9 38 7" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round"/>
+  <path d="m213 101 12 7-13 5" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="20" y="22" width="147" height="28" rx="14" fill="#fffdfa"/>
+  <text x="36" y="41" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".8">MOVES TOWARD YOU</text>
+</svg>

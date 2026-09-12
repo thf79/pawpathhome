@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="settle-title">
+  <title id="settle-title">Dog settling on a mat illustration</title>
+  <rect width="320" height="210" rx="24" fill="#f7f2e8"/>
+  <circle cx="255" cy="58" r="65" fill="#dceee1"/>
+  <ellipse cx="162" cy="178" rx="118" ry="15" fill="#17352c" opacity=".1"/>
+  <path d="M48 157c28-18 64-25 108-22 47 4 84 15 112 34-26 14-72 20-122 17-43-3-76-12-98-29z" fill="#e87351" opacity=".88"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 148c24-18 55-25 93-22 37 3 66 14 87 32-28 14-64 20-107 18-36-1-61-10-73-28z" fill="#e3ad6e"/>
+    <path d="M80 140c-24 0-39-13-42-36-3-20 9-37 29-43 22-6 42 4 48 25 5 18-4 37-23 48-4 2-8 4-12 6z" fill="#e3ad6e"/>
+    <path d="M68 71C49 55 51 32 68 21c16-10 35-4 42 12-14 9-28 22-42 38z" fill="#aa6335"/>
+    <path d="M106 77c20-5 33-20 31-38-2-17-19-28-37-24 5 19 8 40 6 62z" fill="#aa6335"/>
+    <path d="M67 109c5-9 14-11 22-6 8 5 10 15 4 23-7 9-18 9-25 1-4-5-4-12-1-18z" fill="#f8d7aa"/>
+    <circle cx="80" cy="85" r="4" fill="#17352c" stroke="none"/>
+    <path d="M77 109c4 3 9 3 13-1" />
+    <path d="M118 84c15 5 27 5 39 0" stroke="#e87351" stroke-width="8"/>
+    <path d="M194 129c28-7 49-1 65 17" />
+    <path d="M107 150l-14 17M155 155l-6 17M208 156l10 14M249 164l18 8" stroke="#d49252" stroke-width="10"/>
+  </g>
+  <g fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M212 62h18l-18 19h20"/>
+    <path d="M247 35h13l-13 14h15"/>
+    <path d="M276 15h9l-9 10h11"/>
+  </g>
+<rect x="18" y="18" width="124" height="28" rx="14" fill="#fffdfa"/><text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".5">RELAXED ON MAT</text>
+</svg>
+

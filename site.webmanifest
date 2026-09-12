@@ -1,0 +1,19 @@
+{
+  "name": "PawPath Home",
+  "short_name": "PawPath",
+  "description": "Positive, practical dog training for small and medium dogs at home.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffdfa",
+  "theme_color": "#17352c",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+

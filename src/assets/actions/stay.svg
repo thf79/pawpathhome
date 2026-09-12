@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="stay-title">
+  <title id="stay-title">Dog staying in place illustration</title>
+  <rect width="320" height="210" rx="24" fill="#f7f2e8"/>
+  <circle cx="66" cy="64" r="65" fill="#dceee1"/>
+  <ellipse cx="151" cy="176" rx="79" ry="13" fill="#17352c" opacity=".1"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M105 170c5-39 23-66 55-78 25-9 49-3 64 18 12 17 15 37 9 60" fill="#e3ad6e"/>
+    <path d="M120 169c-10-20-5-41 13-56 12 13 17 31 13 56z" fill="#d49252"/>
+    <path d="M185 105c-4-25 4-43 23-53 24-11 50 1 57 25 6 21-3 42-24 52-23 11-50 1-56-24z" fill="#e3ad6e"/>
+    <path d="M207 59c-17-13-17-32-2-42 14-9 31-4 38 10-12 8-25 19-36 32z" fill="#aa6335"/>
+    <path d="M243 56c18-6 29-21 26-37-3-16-19-25-35-20 5 17 8 37 9 57z" fill="#aa6335"/>
+    <path d="M221 100c7-7 15-7 22 0 5 7 3 17-5 21-10 4-20-1-22-10-1-4 1-8 5-11z" fill="#f8d7aa"/>
+    <circle cx="224" cy="78" r="4" fill="#17352c" stroke="none"/>
+    <circle cx="248" cy="76" r="4" fill="#17352c" stroke="none"/>
+    <path d="M232 100c5 3 10 3 15-1" />
+    <path d="M180 104c18 8 35 8 52 0" stroke="#e87351" stroke-width="8"/>
+    <path d="M166 127c-23 9-37 23-43 44" />
+    <path d="M173 170v-44" stroke="#d49252" stroke-width="15"/>
+    <path d="M198 170l-7-47" stroke="#e3ad6e" stroke-width="14"/>
+    <path d="M178 170h-13M202 170h-13" />
+  </g>
+  <g transform="translate(282 84)">
+    <circle r="23" fill="#2f7a57"/>
+    <path d="M-7-11v22M7-11v22" stroke="#fffdfa" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <path d="M253 115c-16 11-25 25-25 43" stroke="#2f7a57" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 7"/>
+<rect x="18" y="18" width="118" height="28" rx="14" fill="#fffdfa"/><text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".7">HOLD 1 SECOND</text><circle cx="281" cy="134" r="24" fill="#fffdfa" stroke="#17352c" stroke-width="4"/><text x="274" y="141" fill="#17352c" font-family="Segoe UI, sans-serif" font-size="18" font-weight="800">1</text>
+</svg>
+

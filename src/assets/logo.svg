@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PawPath Home logo">
+  <rect width="64" height="64" rx="18" fill="#2f7a57"/>
+  <path d="M20 39c0-7 5-13 12-13s12 6 12 13c0 7-5 12-12 12s-12-5-12-12Z" fill="#fffdfa"/>
+  <ellipse cx="19" cy="29" rx="5.5" ry="7" fill="#f1c453" transform="rotate(-22 19 29)"/>
+  <ellipse cx="29" cy="21" rx="5" ry="7.5" fill="#fffdfa" transform="rotate(-8 29 21)"/>
+  <ellipse cx="41" cy="21" rx="5" ry="7.5" fill="#fffdfa" transform="rotate(12 41 21)"/>
+  <ellipse cx="50" cy="30" rx="5.5" ry="7" fill="#f1c453" transform="rotate(24 50 30)"/>
+  <path d="M25 42c4-3 10-3 14 0" fill="none" stroke="#2f7a57" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

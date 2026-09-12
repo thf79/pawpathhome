@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-labelledby="leave-title">
+  <title id="leave-title">Dog leaving an item illustration</title>
+  <rect width="320" height="210" rx="24" fill="#edf6ee"/>
+  <circle cx="73" cy="63" r="64" fill="#f1c453" opacity=".82"/>
+  <ellipse cx="146" cy="177" rx="82" ry="13" fill="#17352c" opacity=".1"/>
+  <g fill="none" stroke="#17352c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 171c6-39 24-66 56-78 25-9 49-3 64 18 12 17 15 37 9 60" fill="#e3ad6e"/>
+    <path d="M108 170c-10-20-5-41 13-56 12 13 17 31 13 56z" fill="#d49252"/>
+    <path d="M173 106c-4-25 4-43 23-53 24-11 50 1 57 25 6 21-3 42-24 52-23 11-50 1-56-24z" fill="#e3ad6e"/>
+    <path d="M195 60c-17-13-17-32-2-42 14-9 31-4 38 10-12 8-25 19-36 32z" fill="#aa6335"/>
+    <path d="M231 57c18-6 29-21 26-37-3-16-19-25-35-20 5 17 8 37 9 57z" fill="#aa6335"/>
+    <path d="M209 101c7-7 15-7 22 0 5 7 3 17-5 21-10 4-20-1-22-10-1-4 1-8 5-11z" fill="#f8d7aa"/>
+    <circle cx="213" cy="79" r="4" fill="#17352c" stroke="none"/>
+    <circle cx="237" cy="77" r="4" fill="#17352c" stroke="none"/>
+    <path d="M220 101c5 3 10 3 15-1" />
+    <path d="M168 105c18 8 35 8 52 0" stroke="#e87351" stroke-width="8"/>
+    <path d="M154 128c-23 9-37 23-43 43" />
+    <path d="M161 170v-44" stroke="#d49252" stroke-width="15"/>
+    <path d="M186 170l-7-47" stroke="#e3ad6e" stroke-width="14"/>
+    <path d="M166 170h-13M190 170h-13" />
+  </g>
+  <g transform="translate(251 67)">
+    <path d="M-15 21c-13-8-20-23-13-37 7-15 25-21 39-12 14 8 18 25 10 39-4 7-10 11-16 14z" fill="#f8d7aa" stroke="#17352c" stroke-width="4"/>
+    <path d="m-7-4 6 5 11-14" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="250" cy="137" r="10" fill="#e87351"/>
+  <path d="M235 137h-32" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-dasharray="6 7"/>
+  <path d="M202 132l-9 5 9 5" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="18" y="18" width="184" height="28" rx="14" fill="#fffdfa"/><text x="32" y="37" fill="#2f7a57" font-family="Segoe UI, sans-serif" font-size="12" font-weight="700" letter-spacing=".5">LOOK AWAY, THEN REWARD</text><path d="M199 76c-31-27-73-24-105 9" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-dasharray="7 7"/><path d="m95 78-12 7 8 11" fill="none" stroke="#2f7a57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(77 67)"><circle r="17" fill="#f8d7aa" stroke="#17352c" stroke-width="4"/><path d="M-7 5c5-8 11-10 17-5" fill="none" stroke="#2f7a57" stroke-width="4" stroke-linecap="round"/><circle cx="7" cy="-2" r="5" fill="#f1c453" stroke="#17352c" stroke-width="2"/></g>
+</svg>
+

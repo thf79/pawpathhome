@@ -1,0 +1,16 @@
+{
+  "name": "pawpath-home",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A static, English-language home dog training website for small and medium dogs.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "start": "node scripts/serve.mjs",
+    "preview": "npm run build && npm run start"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,6 @@
+preview/
+node_modules/
+.codegraph/
+.DS_Store
+Thumbs.db
+*.log
