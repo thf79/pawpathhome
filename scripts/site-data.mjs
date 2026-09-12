@@ -1,7 +1,7 @@
 export const SITE = {
   name: "PawPath Home",
   tagline: "Calm, practical training for small and medium dogs, all from home.",
-  domain: "https://thf79.github.io/pawpathhome",
+  domain: "https://pawpathhome.skillsnexus.top",
   email: "",
   description:
     "Step-by-step, force-free dog training guides, a four-week home training plan, and practical lessons for small and medium dogs."

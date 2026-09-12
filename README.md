@@ -21,7 +21,7 @@ The generated HTML lives in the project root and inside `guides/`. Edit content 
 
 ## Before publishing
 
-1. The live GitHub Pages URL is configured as `https://thf79.github.io/pawpathhome/` in `scripts/site-data.mjs` and `public/robots.txt`. Update both if the repository path or custom domain changes.
+1. The live site URL is configured as `https://pawpathhome.skillsnexus.top` in `scripts/site-data.mjs`, `public/robots.txt`, and `public/CNAME`. Update those if the custom domain changes. DNS should CNAME `pawpathhome` to `thf79.github.io`.
 2. Review the privacy page against the final hosting, analytics, and form setup.
 3. Have the educational copy reviewed by a qualified force-free dog trainer or veterinarian if it will be presented as professional advice.
 

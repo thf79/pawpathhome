@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thf79.github.io/pawpathhome/sitemap.xml
-
+Sitemap: https://pawpathhome.skillsnexus.top/sitemap.xml
